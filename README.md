@@ -9,7 +9,7 @@ leads chegando ao CRM sem trabalho manual, metas que se atualizam sozinhas e nú
 
 | | |
 |---|---|
-| [![Ascenda](https://raw.githubusercontent.com/renanmendonca0512/ascenda-showcase/main/prints/01-meu-dia.png)](https://github.com/renanmendonca0512/ascenda-showcase) | **[Ascenda](https://github.com/renanmendonca0512/ascenda-showcase)**: plataforma de gestão comercial com rotina do dia, funil arrastar e soltar, metas que sobem sozinhas, vendas em cotas, campanhas com ranking e relatórios com o gargalo do funil. Hierarquia de 5 níveis, dados pessoais cifrados por usuário e 32 testes, incluindo 12 cenários de ataque. |
+| [![Ascenda](https://raw.githubusercontent.com/renanmendonca0512/ascenda-showcase/main/prints/01-meu-dia.png)](https://github.com/renanmendonca0512/ascenda-showcase) | **[Ascenda](https://github.com/renanmendonca0512/ascenda-showcase)**: plataforma de gestão comercial com rotina do dia, funil arrastar e soltar, metas que sobem sozinhas, vendas em cotas, campanhas com ranking e relatórios com o gargalo do funil. Hierarquia de 5 níveis, dados pessoais cifrados por usuário e 35 testes, incluindo 12 cenários de ataque. |
 | [![Envio de Leads](https://raw.githubusercontent.com/renanmendonca0512/envio-leads-showcase/main/prints/01-inicio.png)](https://github.com/renanmendonca0512/envio-leads-showcase) | **[Envio de Leads](https://github.com/renanmendonca0512/envio-leads-showcase)**: leva leads de planilhas, formulários e webhooks para qualquer CRM ou API. Envio em paralelo: **1.400 leads passaram de ~20 minutos para menos de 1 minuto**. Tokens cifrados, proteção contra SSRF e login único com o Ascenda. |
 
 Os códigos são privados. As vitrines mostram telas reais com dados fictícios.
